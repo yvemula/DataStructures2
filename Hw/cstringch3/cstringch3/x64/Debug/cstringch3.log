@@ -1,0 +1,5 @@
+﻿  ch3_10_b.cpp
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\cstringch3\cstringch3\ch3_10_b.cpp(89,27): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\cstringch3\cstringch3\ch3_10_b.cpp(90,25): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\cstringch3\cstringch3\ch3_10_b.cpp(91,26): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\cstringch3\cstringch3\ch3_10_b.cpp(92,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

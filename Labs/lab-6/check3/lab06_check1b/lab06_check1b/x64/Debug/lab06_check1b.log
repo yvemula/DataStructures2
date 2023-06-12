@@ -1,0 +1,4 @@
+﻿  lab06_check1b.cpp
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Labs\lab-6\check3\lab06_check1b\lab06_check1b\lab06_check1b.cpp(24,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Labs\lab-6\check3\lab06_check1b\lab06_check1b\lab06_check1b.cpp(58,17): message : see reference to function template instantiation 'void reverse<int>(std::list<int,std::allocator<int>> &)' being compiled
+  lab06_check1b.vcxproj -> C:\Users\Yathin Vemula\Dropbox\DataStructures\Labs\lab-6\check3\lab06_check1b\x64\Debug\lab06_check1b.exe

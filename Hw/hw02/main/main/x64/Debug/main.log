@@ -1,0 +1,77 @@
+﻿  Event.cpp
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,12): error C2065: 'Event': undeclared identifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,5): error C2923: 'std::vector': 'Event' is not a valid template type argument for parameter '_Ty'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,12): message : see declaration of 'Event'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,5): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(15,22): error C2061: syntax error: identifier 'ifstream'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(16,23): error C2061: syntax error: identifier 'ofstream'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,12): error C2065: 'Event': undeclared identifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,5): error C2923: 'std::vector': 'Event' is not a valid template type argument for parameter '_Ty'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,12): message : see declaration of 'Event'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,5): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(11,12): error C3646: 'date': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(12,12): error C3646: 'awayTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(12,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(13,12): error C3646: 'homeTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(13,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(20,20): error C2061: syntax error: identifier 'ifstream'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(21,21): error C2061: syntax error: identifier 'ofstream'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(22,12): error C3646: 'getDate': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(22,19): error C2059: syntax error: '('
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(22,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(23,12): error C3646: 'getAwayTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(23,23): error C2059: syntax error: '('
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(23,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(24,12): error C3646: 'getHomeTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(24,23): error C2059: syntax error: '('
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(24,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(18,14): error C2614: 'Game': illegal member initialization: 'date' is not a base or member
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(18,24): error C2614: 'Game': illegal member initialization: 'awayTeam' is not a base or member
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(18,38): error C2614: 'Game': illegal member initialization: 'homeTeam' is not a base or member
+  Game.cpp
+  Main.cpp
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,12): error C2065: 'Event': undeclared identifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,5): error C2923: 'std::vector': 'Event' is not a valid template type argument for parameter '_Ty'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,12): message : see declaration of 'Event'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(10,5): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,12): error C2065: 'Event': undeclared identifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,5): error C2923: 'std::vector': 'Event' is not a valid template type argument for parameter '_Ty'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,12): message : see declaration of 'Event'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Period.h(18,5): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+  Period.cpp
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(11,12): error C3646: 'date': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(12,12): error C3646: 'awayTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(12,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(13,12): error C3646: 'homeTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(13,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(14,12): error C2065: 'Period': undeclared identifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(14,5): error C2923: 'std::vector': 'Period' is not a valid template type argument for parameter '_Ty'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(14,12): message : see declaration of 'Period'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(14,5): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(20,20): error C2061: syntax error: identifier 'ifstream'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(21,21): error C2061: syntax error: identifier 'ofstream'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(22,12): error C3646: 'getDate': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(22,19): error C2059: syntax error: '('
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(22,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(23,12): error C3646: 'getAwayTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(23,23): error C2059: syntax error: '('
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(23,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(24,12): error C3646: 'getHomeTeam': unknown override specifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(24,23): error C2059: syntax error: '('
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(24,31): error C2238: unexpected token(s) preceding ';'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(25,12): error C2065: 'Period': undeclared identifier
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(25,5): error C2923: 'std::vector': 'Period' is not a valid template type argument for parameter '_Ty'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(25,12): message : see declaration of 'Period'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(25,5): error C2976: 'std::vector': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(494,1): message : see declaration of 'std::vector'
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(18,14): error C2614: 'Game': illegal member initialization: 'date' is not a base or member
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(18,24): error C2614: 'Game': illegal member initialization: 'awayTeam' is not a base or member
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\hw02\main\main\Game.h(18,38): error C2614: 'Game': illegal member initialization: 'homeTeam' is not a base or member
+  Generating Code...

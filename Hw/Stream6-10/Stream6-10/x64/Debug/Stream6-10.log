@@ -1,0 +1,5 @@
+﻿  6-10.cpp
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\Stream6-10\Stream6-10\6-10.cpp(88,27): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\Stream6-10\Stream6-10\6-10.cpp(89,25): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\Stream6-10\Stream6-10\6-10.cpp(90,26): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Yathin Vemula\Dropbox\DataStructures\Hw\Stream6-10\Stream6-10\6-10.cpp(91,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
